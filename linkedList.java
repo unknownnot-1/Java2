@@ -11,7 +11,7 @@ public class linkedList implements Queue {
 	}
 
 	@Override
-	public boolean isEmpty() {
+	public boolean isFULLLL() {
 		// TODO Auto-generated method stub
 		return false;
 	}
